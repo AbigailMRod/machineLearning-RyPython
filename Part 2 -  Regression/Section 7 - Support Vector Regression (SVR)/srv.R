@@ -6,14 +6,14 @@ dataset = read.csv('Position_Salaries.csv')
 dataset = dataset[, 2:3]
 
 #Dividir los datos en conjunto de entrenamiento 
-install.packages("caTools")
+#install.packages("caTools")
 
-library(caTools)
-set.seed(123) #semilla aleatoria
+#library(caTools)
+#set.seed(123) #semilla aleatoria
 #0.8 es el porcentaje que sive para entrenar (train)
-split = sample.split(dataset$Purchased, SplitRatio = 0.8)
-training_set = subset(dataset, split == TRUE)
-testing_set = subset(dataset, split == FALSE)
+#split = sample.split(dataset$Purchased, SplitRatio = 0.8)
+#training_set = subset(dataset, split == TRUE)
+#testing_set = subset(dataset, split == FALSE)
 
 #para escalar los datos, se puede estandarizar o normalizar 
 #Estandarizar permite aglutinar valores en torno a la media, da la campana de Gaus

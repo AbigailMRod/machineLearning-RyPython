@@ -49,6 +49,6 @@ X_grid = np.arange(min(X), max(X), 0.1) #para aumentar la cantidad de puntos qy 
 X_grid = X_grid.reshape(len(X_grid),1)
 plt.scatter(X, y, color="red")
 plt.plot(X,regression.predict((X)), color="blue")
-plt.title("Modelo de regresión")
+plt.title("Modelo de regresión deárbol de decisión")
 plt.xlabel("Posición del empleado")
 plt.ylabel("Sueldo en USD")
