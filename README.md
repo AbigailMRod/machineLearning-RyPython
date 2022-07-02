@@ -12,3 +12,9 @@
 - Parte 8 - Deep Learning: Redes Neuronales Artificiales y Redes Neuronales Convolucionales
 - Parte 9 - Reducción de la dimensión: ACP, LDA, Kernel ACP
 - Parte 10 - Selección de Modelos & Boosting: k-fold Cross Validation, Ajuste de Parámetros, Grid Search, XGBoost
+
+## Los ejercicios del curso se hicieron utilizando
+<img src="https://img.shields.io/badge/Anaconda-339933?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/5.1.5-Spyder-DD0031?style=for-the-badge&logo=spyderide&logoColor=white">
+Pero también se encuentra el código en Cuadernos de 
+<img src="https://img.shields.io/badge/Google-Colab-orange">
