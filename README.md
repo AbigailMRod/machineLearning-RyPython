@@ -18,3 +18,6 @@
 <img src="https://img.shields.io/badge/5.1.5-Spyder-DD0031?style=for-the-badge&logo=spyderide&logoColor=white">
 Pero también se encuentra el código en Cuadernos de 
 <img src="https://img.shields.io/badge/Google-Colab-orange">
+
+<hr>
+Hecho con ❤ por Abigail Muñoz 
