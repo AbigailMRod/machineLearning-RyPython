@@ -14,10 +14,10 @@
 - Parte 10 - Selección de Modelos & Boosting: k-fold Cross Validation, Ajuste de Parámetros, Grid Search, XGBoost
 
 ## Los ejercicios del curso se hicieron utilizando
-<img src="https://img.shields.io/badge/Anaconda-339933?style=for-the-badge&logo=anaconda&logoColor=white">
-<img src="https://img.shields.io/badge/5.1.5-Spyder-DD0031?style=for-the-badge&logo=spyderide&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-339933?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/5.1.5-Spyder-DD0031?style=for-the-badge&logo=spyderide&logoColor=white"> <img src="https://img.shields.io/badge/4.2.0-RStudio-005C84?style=for-the-badge&logo=rstudio&logoColor=white">
+
 Pero también se encuentra el código en Cuadernos de 
-<img src="https://img.shields.io/badge/Google-Colab-orange">
+<img src="https://img.shields.io/badge/Google-Colab-orange"> para los ejercicios en Python
 
 <hr>
 Hecho con ❤ por Abigail Muñoz 
